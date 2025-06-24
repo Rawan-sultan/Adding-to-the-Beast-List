@@ -2,7 +2,7 @@ Title:
 Adding to the Beast List
 
 Introduction:
-Create Adding to the  List application using Swift Language.
+Create an 'Adding to the List' application using the Swift Language.
 
 Video of the Application:
 
